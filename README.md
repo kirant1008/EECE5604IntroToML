@@ -17,4 +17,4 @@ Assignment 1:
           distributed (iid) n-dimensional random vectors {x1,...,xN} drawn from N (μ,Σ) using the linear
           transformation technique applied to samples of z ∼ N (0,I).
           
-      Code for all the above Questions is written in Matlab.
+      Code for all the above Questions are written in Matlab.
