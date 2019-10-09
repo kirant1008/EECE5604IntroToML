@@ -15,7 +15,7 @@ Assignment 1:
           for l ∈ 1,2, as well as class posterior probabilities p(L = l|x) for l ∈ 1,2. Demonstrate the
           decision boundary you found earlier in these visualizations.
       Solution:
-          Using the function normpdf I generated the required pdf's and used the decision boundary.I marked
+          Using the function normpdf , I generated the required pdf's and used the decision boundary.I marked
           the decision boundary in both the cases.
           
       Question 5:
@@ -28,3 +28,17 @@ Assignment 1:
           X3 and X4.
           
       Code for all the above Questions are written in Matlab.
+      
+Assignment 2:
+
+      Question 2:
+          To Generate a specified number of independent and identically distributed samples paired with the class 
+          labels that generated these samples.Generate and visualize data in the form of scatter plots, with a color/marker 
+          based identification of the class label for each sample.Also use map rule to classify this samples and count no. of 
+          errors and probablity of error.
+          
+      Question 3:
+          Implement and apply the Fisher Linear Discriminant Analysis classifier with the decision threshold for the linear 
+          discriminant score set to minimize the smallest probability error.Visualize the one-dimensional Fisher LDA discriminant 
+          scores and decision labels for each sample in separate plots for each case.
+          
